@@ -10,7 +10,7 @@
 7. Abra o arquivo serverless.yml com o comando `c9 open serverless.yml`
 8. Copie o arn do dynamoDB que acabou de criar e cole na linha 18 como na imagem e salve o arquivo
    ![alt](img/stream2.png)
-8. Agora para fazer o deploy do lambda execute o comando `sls deploy`
+8. Agora para fazer o deploy do lambda execute o comando `npm install -g serverless && sls deploy`
     ![alt](img/stream3.png)
 9. De volta ao painél da tabela sell_gsi, na aba 'Exportações e streams', poderá confirmar que existe um gatilho para um lambda.
     ![alt](img/stream4.png)
