@@ -1,6 +1,6 @@
 # 02 - Trabalho final
 
-No trabalho final o grupo terá que desenvolver os seguintes passos abaixos para os 3 cenarios de negócios:
+No trabalho final o grupo terá que desenvolver os seguintes passos abaixos para os 2 cenarios de negócios:
 
 1. Com base nas premissas desenhar como será a tabela do dynamoDB para atender o problema. A descrição deve ser feita em um arquivo de texto(ex: txt, doc, excel)
 2. Desenvolver um código para inserir ao menos 20 linhas de dados na tabela. Não é obrigatória a utilização de python.
