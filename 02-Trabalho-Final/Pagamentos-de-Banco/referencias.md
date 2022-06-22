@@ -13,7 +13,7 @@ Identifique possíveis chaves de partições para atender ao padrão de acesso p
 - Qual atributo do item (*conta*,*agendado*,*status*,*datablob*) escala com padrões de acesso?
 - O que é uma organização natural para os itens de pagamento relacionados (para devolver itens coletados em relação aos padrões de acesso acima)?
 - Considere a dimensão do acesso: leituras e gravações.
-When determining how to organize items related to the primary access pattern:
+Ao determinar como organizar itens relacionados ao padrão de acesso primário:
 
 - Com quais itens da organização os itens precisam ser escritos para devolver itens pelo usuário para um intervalo de data (classificar por)?
 - Qual é a hierarquia dos relacionamentos e quando se aplica (mais geral a mais específica)?
