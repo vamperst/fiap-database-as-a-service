@@ -17,11 +17,11 @@ No trabalho final o grupo terá que desenvolver os seguintes passos abaixos para
 
 ### Cenário 1: Carrinho de compras
 
-[Desafio](Carrinho-de-Compras/desafio.md)
-[Referências](Carrinho-de-Compras/referencias.md)
+1. [Desafio](Carrinho-de-Compras/desafio.md)
+2. [Referências](Carrinho-de-Compras/referencias.md)
 
 
 ### Cenário 2: Pagamentos
 
-[Desafio](Pagamentos-de-Banco/desafio.md)
-[Referências](Pagamentos-de-Banco/referencias.md)
+1. [Desafio](Pagamentos-de-Banco/desafio.md)
+2. [Referências](Pagamentos-de-Banco/referencias.md)
